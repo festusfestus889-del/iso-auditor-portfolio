@@ -1,13 +1,38 @@
-# ISO 9001:2015 Internal Audit Checklist
-# Auditor: OGE FESTUS FESTUS | Date: 6 Oct 2026
+# ISO 9001:2015 QMS AUDITOR PORTFOLIO
+## OGE FESTUS FESTUS | Port Harcourt, Rivers State, NG
+**Certified: 6 October 2026 | Score: 84% | 100% Completion | Alison CPD 3-5 Hrs**
 
-| Clause | Requirement | Compliant | Evidence |
-| 4.1 | Org context documented | Yes/No | Check manual |
-| 5.1 | Leadership commitment | Yes/No | Management review |
-| 6.1 | Risks & Opportunities | Yes/No | Risk register |
-| 7.2 | Competence & Training | Yes/No | Training records |
-| 8.5 | Service control | Yes/No | SOPs |
-| 9.2 | Internal Audit done | Yes/No | Audit report |
-| 10.2 | NCR & Corrective Action | Yes/No | CAPA log |
+![Portfolio Cover](OGE-FESTUS-FESTUS-ISO-9001-Portfolio-Cover-84percent-6Oct2026.jpg)
 
-Auditor Signature: OGE FESTUS FESTUS
+### 👤 Owner: OGE FESTUS FESTUS
+
+### 📜 CERTIFICATION PROOF
+- **Course:** ISO 9001:2015 - Quality Management System (QMS)
+- **Platform:** Alison.com - Empower Yourself
+- **Completed:** 6 October 2026 (TODAY - Fresh!)
+- **Score:** 84% Average Assessment Score
+- **Status:** 1 of 1 Courses Completed = 100%
+- **Nigeria Ranking:** Among 2958 learners in Nigeria learning now
+- **Evidence:** Alison Dashboard Screenshots 12:44 PM - 1:13 PM, 6 Oct 2026
+
+### 🎯 CORE SKILLS FOR TRAINING HUB
+- ISO 9001:2015 Clauses 4-10
+- PDCA Cycle & Risk-Based Thinking
+- Internal Audit & Gap Analysis
+- NCR & Corrective Action (CAPA)
+- QMS Documentation
+
+### 📁 FILES
+1. This README + Cover Image (Proof)
+2. QMS-Audit-Checklist.md (Coming - Template)
+3. Risk-Matrix-Template.md (Coming - Template)
+
+### 🔗 CONTACT & APPLICATION
+**Target Role:** ISO 9001 Auditor / QMS Officer - Training Hub PH
+**Location:** Port Harcourt, Available Immediately
+**Phone:** [YOUR PHONE] | **Email:** [YOUR EMAIL]
+**Indeed/Jobberman:** OGE FESTUS FESTUS
+
+> Ready to help Training Hub achieve ISO 9001 compliance and improve training quality management!
+
+#ISO9001 #QMSAuditor #OGEFESTUSFESTUS #PortHarcourt #QualityManagement #Alison #84Percent
