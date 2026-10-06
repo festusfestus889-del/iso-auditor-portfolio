@@ -30,7 +30,7 @@
 ### 🔗 CONTACT & APPLICATION
 **Target Role:** ISO 9001 Auditor / QMS Officer - Training Hub PH
 **Location:** Port Harcourt, Available Immediately
-**Phone:** [YOUR PHONE] | **Email:** [YOUR EMAIL]
+**Phone:** [09072751513] | **Email:** [festusfestus889@gmail.com]
 **Indeed/Jobberman:** OGE FESTUS FESTUS
 
 > Ready to help Training Hub achieve ISO 9001 compliance and improve training quality management!
